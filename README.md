@@ -16,3 +16,5 @@
 
 
 # OUTPUT OF THE TASK
+
+![figma landing page](https://github.com/user-attachments/assets/d0e585b8-4639-4f98-bcaf-07371885c78b)
